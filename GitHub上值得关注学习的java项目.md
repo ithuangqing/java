@@ -27,7 +27,13 @@
 27. 一个非常不错的技术摘要https://github.com/biezhi/java-bible、
 28. 基于 webmagic 的 Java 爬虫应用 https://github.com/brianway/webporter
 29. 汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典架构案例、数据库、常用三方库、线上运维等知识 https://github.com/aalansehaiyang/technology-talk
-30. 
+30. Spring、SpringMVC、MyBatis、Spring Boot案例  ，挺不错的https://github.com/lenve/JavaEETest
+31. 学习js的好资源https://github.com/zhubangbang/zhubangbang-javascript-notes
+32. 关于Java核心技术学习积累的例子，是初学者及核心技术巩固的最佳实践。 把一些知识点全部写成了代码，你可以直接运行测试，推荐https://github.com/JeffLi1993/java-core-learning-example
 
 
+
+
+
+以上都是GitHub中star在1K以上的几个项目，对大家来说，是学习java的绝佳资料！后续会不断更新！
 
