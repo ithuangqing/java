@@ -30,10 +30,13 @@
 30. Spring、SpringMVC、MyBatis、Spring Boot案例  ，挺不错的https://github.com/lenve/JavaEETest
 31. 学习js的好资源https://github.com/zhubangbang/zhubangbang-javascript-notes
 32. 关于Java核心技术学习积累的例子，是初学者及核心技术巩固的最佳实践。 把一些知识点全部写成了代码，你可以直接运行测试，推荐https://github.com/JeffLi1993/java-core-learning-example
+33. about learning Spring Boot via examples. Spring Boot 技术栈示例代码，快速简单上手教程。学习SpringBoot必备 https://github.com/ityouknow/spring-boot-examples
+34. 有一些史上最简单系列教程，很不错，推荐https://github.com/guobinhit/cg-blog
+35. 
 
 
 
 
 
-以上都是GitHub中star在1K以上的几个项目，对大家来说，是学习java的绝佳资料！后续会不断更新！
+以上都是GitHub中star大多在1K以上的几个项目，对大家来说，是学习java的绝佳资料！后续会不断更新！
 

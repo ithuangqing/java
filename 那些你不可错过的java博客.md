@@ -16,5 +16,12 @@
 16. [史上最简单的 Spring Cloud 教程](https://blog.csdn.net/column/details/15197.html)
 17. 一个不断前进的大学生，是我的学习榜样https://blog.csdn.net/qq_31655965/article/category/6264105
 18. 非常不错的一个网站，其中给出一个Java学习路线，配有专门的文章讲解，非常值得阅读http://www.tiantianbianma.com/java-guide.html/
-19. 
-
+19. Intellij Idea相关的各种使用相关问题，从注册到开发，基本配置，如何配置使用方便，等等很多实用的小技巧的分享，以及使用过程中产生的各种各样的问题，都有记录。https://blog.csdn.net/column/details/15222.html
+20. 设计模式是一个程序员迟早要掌握的技能。本专栏将对程序设计中常用的设计模式进行详细的解读。 https://blog.csdn.net/column/details/pattern.html
+21. 超..超...超......简单的 MySQL 数据库教程。https://blog.csdn.net/column/details/16138.html
+22. 主要集中在Java Web本身的技术解释和剖析，不涉及任何框架的技术 https://blog.csdn.net/column/details/15759.html
+23. 快速学习 Spring Boot 技术栈 https://blog.csdn.net/column/details/15149.html
+24. 分享技术，品味人生，来自纯洁的微笑，学习SpringBoot和Cloud必须关注的博客http://www.ityouknow.com/
+25. 介绍maven基础以及扩展知识，和大家共同学习推动maven https://blog.csdn.net/column/details/maven-force.html
+26. 黄勇（ 博客），从事近十年的 JavaEE 应用开发工作，现任阿里巴巴公司系统架构师。https://my.oschina.net/huangyong
+27. 

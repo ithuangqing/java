@@ -4,4 +4,5 @@
 4. [想对大家说的话](http://codingxiaxw.cn/2017/11/21/69-the-words-want-to-say/)
 5. [java学习之道 --- 如何学习java？](https://blog.csdn.net/qq_31655965/article/details/68948883)
 6. [给 Java 初学者的学习路线建议](https://juejin.im/entry/5913cfec570c35006922bc62)
-7. 
+7. [一位10年Java工作经验的架构师聊Java和工作经验](https://blog.csdn.net/lifuxiangcaohui/article/details/48342315)
+8. 
