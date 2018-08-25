@@ -32,7 +32,8 @@
 32. 关于Java核心技术学习积累的例子，是初学者及核心技术巩固的最佳实践。 把一些知识点全部写成了代码，你可以直接运行测试，推荐https://github.com/JeffLi1993/java-core-learning-example
 33. about learning Spring Boot via examples. Spring Boot 技术栈示例代码，快速简单上手教程。学习SpringBoot必备 https://github.com/ityouknow/spring-boot-examples
 34. 有一些史上最简单系列教程，很不错，推荐https://github.com/guobinhit/cg-blog
-35. 
+35. 关于java8的一些文章，很经典：https://github.com/biezhi/30-seconds-of-java8
+36.一些技术摘要，部分文章来自网络，本项目的目的力求分享精品技术干货，以Java为主。：https://github.com/biezhi/java-bible
 
 
 
